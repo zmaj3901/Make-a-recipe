@@ -1,0 +1,49 @@
+
+body{
+  background-color: orangered; 
+}
+img{
+  width: 450px;
+  height: 320px; 
+}
+{
+  color: white;
+font-size: 12pt;
+font-weight: bold; 
+text-align: center;
+text-align: left;
+text-align: right;
+font-family: ;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h1 {
+  color: Orange; 
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+h2 {
+  color: white;
+}
+h3 {
+  color: white;
+   font-family: "Lucida Console", "Courier New", monospace;
+}
+h4 {
+  color: white;
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 15; 
+  font-size: large;
+}
+h6 {
+  color: white;
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 15; 
+  font-size: large;
+}
+
+</body>
